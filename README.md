@@ -1,5 +1,8 @@
 # recording_license
 
+> **Archived.** This package moved to [`misofm/framework`](https://github.com/misofm/framework/tree/main/recording_license),
+> with its history. Depend on it with `git = "https://github.com/misofm/framework.git"` and `subdir = "recording_license"`.
+
 A composition's standing license to record it and distribute the recording.
 
 A composition admin publishes a `RecordingLicensePolicy` with a rate. Any
